@@ -3,7 +3,7 @@ This was an assignment made in academic year 21-22 as part of a subject called I
 
 This is an Android app build using Dart and Flutter, which I found to be tremendously versatile and well documented.
 
-Design files for all of the three projects are available on [Figma](https://www.figma.com/file/y2LgbOJngQ7VbYIJWtJ40b/COVIDLog?node-id=0%3A1)
+Design docs for all of the three projects are available on [Figma](https://www.figma.com/file/y2LgbOJngQ7VbYIJWtJ40b/COVIDLog?node-id=0%3A1)
 
 The Hasura (GraphQL) backend was provided to us by Noelia Barreira Rodríguez (noelia.barreira@udc.es), and is publicly available on [her repository](github.com/nbarreira/ipm2122-server)
 
