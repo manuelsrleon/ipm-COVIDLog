@@ -16,5 +16,3 @@ _Keep in mind that design considerations were secondary, as pretty UI design was
 Brais Cancela Barizo
 
 ## Screenshots
-
-*GTK Theme is KDE Plasma 5's "Breeze"
